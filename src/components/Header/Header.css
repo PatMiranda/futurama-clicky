@@ -1,0 +1,15 @@
+.header {
+  width: 100%;
+  font-size: 2rem;
+  color: #2A77AE;
+  margin-bottom: 10px;
+ font-family: 'Luckiest Guy', cursive;
+}
+
+.title {
+  float: left;
+}
+
+.scores {
+  float: right;
+}
